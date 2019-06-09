@@ -1,5 +1,5 @@
 owner=511234899655786503
-prefix=5play
+prefix=5
 game=Break | 5play
 stayinchannel=true
 songinstatus=false
